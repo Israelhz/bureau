@@ -6,12 +6,12 @@ require 'bureau/version'
 Gem::Specification.new do |spec|
   spec.name          = "bureau"
   spec.version       = Bureau::VERSION
-  spec.authors       = ["israelhz"]
+  spec.authors       = ["Israel Hernández"]
   spec.email         = ["israel.leal25@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Bureau is a rails engine to create a backoffice for your Rails application}
+  spec.description   = %q{Bureau is a rails engine to create a backoffice for your Rails application by providing a powerful and verbose DSL. (For coders only)}
+  spec.homepage      = "www.github.com/israelhz/bureau"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
